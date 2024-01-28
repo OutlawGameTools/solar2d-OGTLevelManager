@@ -1,0 +1,25 @@
+-- build.settings for project: OGT Level Manager
+-- Copyright 2013-2024 Three Ring Ranch. All Rights Reserved.
+
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		supported =
+		{
+			"landscapeLeft","landscapeRight"
+		},
+	},
+
+	iphone =
+	{
+		plist =
+		{
+			UIAppFonts = {"Adventure.ttf"},
+			UIApplicationExitsOnSuspend = false,
+			UIPrerenderedIcon = true
+		},
+	},
+
+}
