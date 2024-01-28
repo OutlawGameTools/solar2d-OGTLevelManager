@@ -7,7 +7,10 @@ Many games are based on levels, and most of those games have a screen where: 
 
 One of the most commonly asked game dev questions is, “How do I lock and unlock levels?” Until now I’ve tried to explain the concept to people but now I have a better answer…  
 
-The Outlaw Game Tools Level Manager
+**The Outlaw Game Tools Level Manager**
+
+![ogtlm](https://github.com/OutlawGameTools/solar2d-OGTLevelManager/assets/3411560/816bf64d-f04b-4bec-aead-e5bc161579ec)
+
 
 OGT Level Manager is a library you include in your game and then “tweak” some variables to specify which graphics you want to use, how many total levels you have, etc. And then in your game it’s as easy as this to unlock the next level when the player has finished with the current level:  
 
